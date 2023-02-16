@@ -4,4 +4,4 @@ this is the first setep in Apache airflow
 
 
 
-![Screenshot (379)](https://user-images.githubusercontent.com/60605851/219508468-9e6096ba-0e32-47ee-a4a3-40ecb210a62a.png)
+![Screenshot (380)](https://user-images.githubusercontent.com/60605851/219508544-860322b0-23a8-4ed1-a3d3-638a55e70fbb.png)
